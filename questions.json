@@ -1,0 +1,81 @@
+[
+  {
+    "question": "You receive an email from 'support@netflix-update.com' asking to reset your password. What should you do?",
+    "options": ["Click the link and reset", "Ignore or verify on official site", "Reply with account info", "Forward to friend"],
+    "answer": "Ignore or verify on official site"
+  },
+  {
+    "question": "Which one is a sign of a phishing URL?",
+    "options": ["https://accounts.google.com", "https://googIe.com", "https://linkedin.com", "https://github.com"],
+    "answer": "https://googIe.com"
+  },
+  {
+    "question": "An email says 'Your PayPal account has been limited' and asks for login — what's suspicious?",
+    "options": ["Urgency in message", "Strange sender address", "Bad grammar", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "A friend messages you on Instagram: 'Hey is this you in the video?' with a link. You should:",
+    "options": ["Click to check", "Report it", "Reply back", "Ignore it"],
+    "answer": "Report it"
+  },
+  {
+    "question": "Which of the following best defines phishing?",
+    "options": ["Sending spam emails", "Tricking users into giving personal info", "Making websites", "Writing code"],
+    "answer": "Tricking users into giving personal info"
+  },
+  {
+    "question": "An email from 'admin@bank.com' asks for OTP urgently. What do you do?",
+    "options": ["Give OTP immediately", "Call bank and confirm", "Ignore and delete", "Forward to police"],
+    "answer": "Call bank and confirm"
+  },
+  {
+    "question": "Which email is most likely fake?",
+    "options": ["support@amazon.co.in", "support@amazo-support.in", "info@amazon.in", "hello@amazon.com"],
+    "answer": "support@amazo-support.in"
+  },
+  {
+    "question": "Why do attackers use phishing?",
+    "options": ["To test users' memory", "To improve cybersecurity", "To steal data or money", "To fix internet issues"],
+    "answer": "To steal data or money"
+  },
+  {
+    "question": "What should you check before clicking a link in an email?",
+    "options": ["Email color", "Font style", "URL and sender address", "Emoji count"],
+    "answer": "URL and sender address"
+  },
+  {
+    "question": "You get a job offer asking to pay a registration fee. What is this?",
+    "options": ["A new hiring model", "Fake job scam", "Referral process", "Freelancing"],
+    "answer": "Fake job scam"
+  }
+]
+=======
+[
+  {
+    "question": "You receive an email from 'admin@micros0ft.com' asking to reset your password.",
+    "choices": ["Click the link", "Report as phishing", "Reply to ask", "Ignore it"],
+    "correct": 1
+  },
+  {
+    "question": "You find a USB labeled 'Company Bonus Data' in the parking lot.",
+    "choices": ["Plug it into your laptop", "Give it to HR", "Throw it away", "Give it to a friend"],
+    "correct": 1
+  },
+  {
+    "question": "A website lets you submit comments, and you type <script>alert('hi')</script> and see an alert.",
+    "choices": ["Great feature!", "It's XSS vulnerability", "Not a big deal", "Ignore it"],
+    "correct": 1
+  },
+  {
+    "question": "Which of these is a strong password?",
+    "choices": ["12345678", "qwerty", "P@ssw0rd!", "ILoveYou"],
+    "correct": 2
+  },
+  {
+    "question": "What should you do before clicking a link in a suspicious email?",
+    "choices": ["Click and see", "Hover and verify the link", "Forward to friends", "Open on mobile"],
+    "correct": 1
+  }
+]
+
