@@ -1,4 +1,4 @@
-PhishHunter Game
+PhishHunter Game 
 
 Welcome to PhishHunter, an interactive phishing awareness quiz game designed to help users spot phishing attempts and learn safe browsing habits — while having fun!
 
